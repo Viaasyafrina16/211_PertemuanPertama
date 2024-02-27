@@ -17,6 +17,8 @@ int main()
 	cin >> nTinggi;
 	nLuas = nAlas * nTinggi / 2;
 	cout << "luasnya = " << nLuas;
+	cout << "masukkan Panjang = ";
+	int nPanjang, nLebar; 
 
 
 
